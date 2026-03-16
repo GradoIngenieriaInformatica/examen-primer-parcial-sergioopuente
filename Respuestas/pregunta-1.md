@@ -1,1 +1,1 @@
-
+Base de datos Orientada a Columnas (Column-family).
